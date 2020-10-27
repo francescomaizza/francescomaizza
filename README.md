@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning how not loosing my mind while looking for an internship 
 - 💬 Ask me about Finance 
 - 📫 How to reach me: Don't reach me 
-- ⚡ Fun fact: I am rpobabily th only Luiss's Alumni on github.
+- ⚡ Fun fact: I am probabily th only Luiss's Alumni on github.
